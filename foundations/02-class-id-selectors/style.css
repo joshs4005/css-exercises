@@ -1,0 +1,20 @@
+.odd-text {
+    background-color: #ffb6c1;
+    font-family: Verdana, sans-serif;
+
+}
+
+.bigger-text {
+    font-size: 36px;
+}
+
+#big-blue {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#bold-green {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
