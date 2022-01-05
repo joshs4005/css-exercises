@@ -15,7 +15,6 @@ body {
   display: flex;
   align-items: center;
   padding: 8px;
-
 }
 
 .profile-image {
@@ -25,7 +24,7 @@ body {
   width: 48px;
   height:  48px;
   margin: 0;
-  margin-left: 8px;
+  margin-left: 16px;
 }
 
 .logo {
@@ -43,7 +42,6 @@ button {
   color: white;
   padding: 8px 24px;
   margin-left: auto;
-  
 }
 
 a {
@@ -52,13 +50,11 @@ a {
   color: rebeccapurple;
 }
 
-
-
 nav ul {
   list-style-type: none;
   display: flex;
   gap: 8px;
-  padding: 8px;
+  padding: 16px;
   justify-content: flex-start;
 }
 
