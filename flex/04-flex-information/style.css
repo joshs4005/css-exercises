@@ -12,12 +12,21 @@ img {
   font-weight: 900;
   display: flex;
   justify-content: center;
+  padding-bottom: 32px;
 }
 
 .info {
   display: flex;
   justify-content: center;
+  text-align: center;
+  gap: 52px;
   
+}
+
+.text {
+  display: flex;
+  justify-content: center;
+  width: 200px;
 }
 
 /* do not edit this footer */
