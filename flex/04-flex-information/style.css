@@ -12,15 +12,14 @@ img {
   font-weight: 900;
   display: flex;
   justify-content: center;
-  padding-bottom: 32px;
+  margin-bottom: 32px;
 }
 
 .info {
   display: flex;
   justify-content: center;
   text-align: center;
-  gap: 52px;
-  
+  gap: 52px; 
 }
 
 .text {
